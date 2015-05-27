@@ -68,6 +68,7 @@ class Updater(WordManager):
         another = True
         while another:
             question = input("Veuillez saisir une question à mettre à jour :")
+            question.strip(' ?')
             if question not in self.questions:
                 print("La question saisie n'existe pas")
             else:
