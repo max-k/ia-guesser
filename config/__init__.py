@@ -8,4 +8,4 @@ release_ver = '0.1'
 
 # Configuration de la base de données
 # Par défaut, on utile sqlite
-database="sqlite:////database.sqlite"
+database="sqlite:///database.sqlite"

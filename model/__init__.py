@@ -12,7 +12,7 @@ class Question(Base):
 
     id = Column(Integer, Sequence('question_id_seq'), primary_key=True)
 
-    text = Column(String(1024), nullable=False)
+    text = Column(String(1024), nullable=False, unique=True)
     yes_count = Column(Integer, nullable=False, default=0)
     no_count = Column(Integer, nullable=False, default=0)
 
@@ -34,7 +34,7 @@ class Mystery(Base):
 
     id = Column(Integer, Sequence('mystery_id_seq'), primary_key=True)
 
-    name = Column(String(50), nullable=False)
+    name = Column(String(50), nullable=False, unique=True)
     stats = Column(Integer, nullable=False, default=0)
 
     answers = relationship("Answer", backref="mystery",
@@ -49,21 +49,18 @@ class Mystery(Base):
 
 class Answer(Base):
     __tablename__ = 'answers'
-    __table_args__ = (UniqueConstraint('question_id', 'mystery_id',
-                                       name='answer_question_mystery_uc'),)
+    __table_args__ = (UniqueConstraint('qid', 'mid', name='answer_qid_mid_uc'),)
 
-    question_id = Column(Integer, ForeignKey('questions.id'), primary_key=True)
-    mystery_id = Column(Integer, ForeignKey('mysteries.id'), primary_key=True)
+    qid = Column(Integer, ForeignKey('questions.id'), primary_key=True)
+    mid = Column(Integer, ForeignKey('mysteries.id'), primary_key=True)
 
     answer = Column(Boolean, nullable=False)
 
     def __init__(self, question_id, mystery_id, answer):
-        self.question_id = question_id
-        self.mystery_id = mystery_id
+        self.qid = question_id
+        self.mid = mystery_id
         self.answer = answer
 
     def __repr__(self):
-        return("<Answer(%s,%s,%s)>" % (self.question_id,
-                                       self.mystery_id,
-                                       self.answer))
+        return("<Answer(%s,%s,%s)>" % (self.qid, self.mid, self.answer))
 
