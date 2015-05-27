@@ -7,6 +7,7 @@ if checkModule("cPickle"):
 else:
     from pickle import load, dump, HIGHEST_PROTOCOL
 
+import sys
 from os.path import join
 
 class Word(object):
