@@ -1,0 +1,215 @@
+est-ce que ça sert à prendre des photos
+est-ce que ça sert à taper
+est-ce que ça sert à visser
+est-ce que ça sert à percer
+est-ce que ça sert à éplucher
+est-ce en plastique
+est-ce que ça sert à calculer
+est-ce que ça sert à faire du café
+est-ce que ça protège du soleil
+est-ce crémeux
+est-ce que ça sert à attacher quelqu'un
+est-ce que ça sert à écouter
+est-ce numérique
+est-ce en métal
+est-ce en verre
+est-ce en bois
+est-ce en ceramique
+est-ce en tissu
+est-ce en papier
+est-ce un outil
+est-ce que ça sert à écrire
+est-ce que ça sert à cliquer
+est-ce composé de touches
+est-ce filaire
+est-ce un vetement
+est-ce artistique
+est-ce que ça sert à arroser
+est-ce un moyen de transport
+est-ce volant
+est-ce roulant
+est-ce flottant
+est-ce un deux roues
+est-ce motorisé
+est-ce à pédales
+est-ce un meuble
+est-ce rectangulaire
+est-ce rond
+est-ce plat
+peut-on s'asseoir dessus
+peut-on manger dessus
+peut-on y ranger des choses
+est-ce un ustensile de cuisine
+est-ce que ça sert à faire à manger
+est-ce arrondi
+est-ce profond
+est-ce coupant
+est-ce anti-adhérant
+est-ce piquant
+est-ce que ça sert à y faire cuire des choses
+est-ce electronique
+est-ce que ça sert à téléphoner
+est-ce equipé d'un clavier
+est-ce que ça sert à écouter la musique
+est-ce que ça sert à changer de chaine
+est-ce que ça sert à voir des images
+est-ce que ça sert à voir des films
+est-ce électrique
+est-ce que ça sert à faire le ménage
+peut-on s'en servir sur soi
+est-ce que ça sert à couper les cheveux
+est-ce que ça sert à se raser
+est-ce que ça sert à s'épiler
+est-ce que ça sert à presser des fruits
+est-ce sexuel
+est-ce que ça protège des maladies
+est-ce lubrifiant
+est-ce mecanique
+est-ce que ça sert à ouvrir des boites
+est-ce que ça sert à ouvrir des bouteilles
+est-ce que ça sert à enlever des capsules
+est-ce que ça sert à soulever une voiture
+est-ce que ça sert à changer une roue
+est-ce que ça sert à réparer une chambre à air
+est-ce un appareil électro-ménager
+est-ce que ça sert à voyager
+est-ce que ça sert à souffler
+est-ce que ça sert à aspirer
+est-ce mineral
+est-ce que ça va dans l'eau
+est-ce imperméable
+est-ce un contenant
+est-ce grand
+est-ce petit
+est-ce transportable
+est-ce dur
+est-ce fragile
+est-ce que ça brule
+est-ce lumineux
+est-ce bruyant
+est-ce dangereux
+est-ce doux
+est-ce froid
+est-ce chaud
+est-ce decoratif
+est-ce utile
+est-ce cher
+est-ce gratuit
+est-ce large
+est-ce odorant
+est-ce que ça sert à pêcher
+est-ce que ça sert à chasser
+est-ce agréable
+est-ce que ça sert à se maquiller
+est-ce pour les yeux
+est-ce pour les levres
+est-ce pour le teint
+est-ce pour les cils
+est-ce coloré
+est-ce poilu
+est-ce que ça sert à tondre
+est-ce un etre vivant
+est-ce que ça sert à s'y cacher
+est-ce une arme
+est-ce une arme à feu
+est-ce contondant
+est-ce humide
+est-ce que ça sert à ouvrir une porte
+est-ce que ça sert à payer
+est-ce que ça sert à jouer
+peut-on le tenir en main
+peut-on le ranger dans une poche
+est-ce que ça sert à attacher les cheveux
+est-ce que ça sert pour les cheveux
+est-ce elastique
+est-ce abrasif
+est-ce que ça sert à prendre les transports
+est-ce magnétique
+peut-on le porter sous la ceinture
+est-ce long
+peut-on le porter au dessus du cou
+est-ce qu'on le porter sous les chevilles
+est-ce un sous-vetement
+est-ce composé de plusieurs matières
+est-ce que ça sert à faire du feu
+est-ce que ça sert à se secher
+est-ce que ça sert à se coiffer
+est-ce que ça sert à se laver
+est-ce un produit d'hygiène
+est-ce liquide
+est-ce que ça tient chaud
+est-ce mobile
+est-ce illégal
+est-ce équippé d'un selle
+est-ce que ça sert à fumer
+est-ce équipé d'un volant
+est-ce équipé d'un guidon
+est-ce explosif
+peut-on mettre ses pieds dedans
+peut-on mettre ses mains dedans
+peut-on le porter sous un pull
+est-ce un nom féminin
+est-ce destiné aux femmes
+est-ce un consommable
+est-ce recyclable
+est-ce que ça sert à monter ou descendre
+peut-on s'y asseoir
+peut-on s'y coucher
+peut-on s'y mettre debout
+est-ce transparent
+est-ce que ça sert à aprendre
+est-ce que ça sert à s'endormir
+est-ce que ça sert à dormir
+est-ce que ça sert à sentir bon
+est-ce que ça produit de la fumée
+est-ce que ça sert à ranger un corps
+est-ce un bijou
+peut-on le porter sur soi
+est-ce précieux
+est-ce stérile
+est-ce que ça donne l'heure
+y'a-t-il un trou au milieu
+peut-on le lire avec un laser
+est-ce que ça sert à changer un bébé
+est-ce que ça sert à marcher
+peut-on marcher dessus
+est-ce que ça sert à courir
+peut-on le porter autour du cou
+est-ce que ça sert à coudre
+est-ce que ça sert à désinfecter
+est-ce que ça sert à se protéger de la pluie
+est-ce que ça sert à se protéger du froid
+est-ce thermique
+est-ce que ça produit de l'électricité
+est-ce solaire
+est-ce que ça sert à effacer
+est-ce que ça sert à sécher
+est-ce que ça sert à s'y installer
+peut-on l'utiliser à plusieurs
+est-ce que ça sert à y mettre une plante
+est-ce que ça dispose d'un chargeur
+est-ce en matière naturelle
+est-ce que ça utilise des cartouches
+est-ce que ça sert à glisser
+peut on mettre son doigt dedans
+peut-on le porter au poignet
+est-ce que ça améliore un sens
+est-ce pour les oreilles
+peut-on le tailler
+est-ce que ça sert à mesurer
+est-ce pâteux
+est-ce que ça sert à rendre étanche
+est-ce que ça sert à s'essuyer
+est-ce que ça sert à aux toilettes
+est-ce que ça sert à faire couler de l'eau
+est-ce flexible
+est-ce que ça contient de l'eau
+est-ce poudreux
+peut-on s'en servir à l'extérieur
+est-ce que ça permet de se protéger
+est-ce médical
+peut-on l'ingérer
+est-ce que ça sert à y stocker des informations
+est-ce que ça sert à accéder à internet
+est-ce que ça sert à mesurer la température
+est-ce ouvert

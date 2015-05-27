@@ -1,0 +1,209 @@
+lunettes
+voiture_hybride
+voiture
+table
+casserole
+chaise
+table
+buffet
+television
+cheminée
+voiture
+clé
+avion
+moto
+vélo
+bateau
+trotinette
+skateboard
+roller
+presse-agrumes
+casserole
+cuillère
+assiette
+bouteille
+canette
+radiateur
+frigo
+machine à laver
+sèche-linge
+matelas
+armoire
+sèche-cheveux
+tondeuse à gazon
+tondeuse à cheveux
+fauteuil
+canapé
+couper ongles
+lime à ongles
+mascara
+rouge à lèvres
+vernis à ongles
+eyeliner
+fard à paupières
+fond de teint
+fourchette
+poele
+four
+micro-ondes
+poele à pétrole
+grille-pain
+robot de cuisine
+montre
+cd
+dvd
+lecteur mp3
+téléphone
+smartphone (iphone)
+livre
+pistolet
+fusil
+imprimante
+chaussure
+parapluie
+robe
+jupe
+pantalon
+short
+t-shirt (polo)
+pull-over (sweat-shirt)
+collants
+chausettes
+culotte
+soutien-gorge
+écharpe
+casquette
+chapeau
+gants
+skis
+surf
+bague
+boucle d'oreilles
+collier
+bracelet
+lentilles de contact
+appareil auditif
+stylo
+crayon
+effaceur
+gomme
+taille-crayon
+règle
+mètre
+godmichet
+préservatif
+aspirateur
+ascenceur
+escalator
+escalier
+chaine hifi
+cerceuil
+briquet
+allumettes
+cendrier
+cigarette
+appareil-photo
+perceuse
+marteau
+tournevis
+tire-bouchon
+épluche légumes
+souris
+clavier
+écran 
+ordinateur
+machine à écrire
+calculatrice
+cafetière
+crème solaire
+serviette
+gel douche
+tapis de bain
+brosse à dents
+dentifrice
+silicone
+papier toilettes
+papier mouchoir
+papier absorbant
+brosse à toilettes
+cuvette de toilettes
+pommeau de douche
+robinet
+tuyeau d'arrosage
+arrosoir
+rasoir
+pelle
+visseuse
+revolver
+couverture
+lit
+matelas
+oreiller
+radio-réveil
+carte banquaire
+chèque
+carte de transports
+argent liquide
+porte-monnaie
+bate de baseball
+jeu de société
+vase
+tableau
+fenêtre
+porte
+horloge
+évier
+cassette audio
+pot
+magnétoscope
+console de jeux
+panier
+parasol
+chaise longue
+piscine
+couche
+talc
+scie
+menottes
+bougie
+corde
+drap
+manteau
+imperméable
+bottes
+chaussons
+ballon
+pyjama
+lampe de poche
+bol
+téillère
+enceinte
+gilet pare-balles
+vaccin
+seringue
+médicament
+aiguille
+fil à coudre
+tandem
+shampoing
+cassette vidéo
+carte mémoire
+disque dur
+modem (box internet)
+thermomètre
+cadre
+cocotte minute
+wok
+décapsuleur
+ouvre-boite
+bassine
+pneu
+roue
+statue
+hameçon
+canne à pêche
+rideau
+platine vinyle
+ampoule
+tasse
+verre

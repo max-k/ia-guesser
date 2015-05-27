@@ -1,0 +1,79 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
+
+from config import release_name, release_ver
+from src.initiator import Asker, Updater, Printer
+from src.importer import Importer
+from src.guesser import Guesser
+
+from argparse import ArgumentParser
+
+import sys
+
+class IAGuesser(object):
+
+    def __init__(self):
+        self._parse()
+        if not hasattr(self.args, 'func'):
+            self.parser.print_help()
+        else:
+            self.args.func(self.args)
+            self.task.run()
+            print("\ndone")
+
+    def _parse(self):
+        self.parser = ArgumentParser(prog='./{}'.format(release_name),
+                description='IA - Akinator-like expert system',
+                epilog='Suffix a command with -h to show additional help')
+        self.parser.add_argument('--version', action='version',
+                version='{} {} - GPL v3+'.format(release_name, release_ver))
+        subparsers = self.parser.add_subparsers(title='available commands')
+        parser_init = subparsers.add_parser('init',
+                description='Asks you missing answer files for all words',
+                help='answers initialization for all words')
+        parser_init.set_defaults(func=self._init)
+        parser_update = subparsers.add_parser('update',
+                description='Allows you to update answers of one ore more words',
+                help='update answers for one or more words')
+        parser_update.add_argument('words', metavar='word', nargs='+',
+                help='word(s) to update')
+        parser_update.set_defaults(func=self._update)
+        parser_print = subparsers.add_parser('print',
+                description='Allows you to print answers of one ore more words',
+                help='print answers for one or more words')
+        parser_print.add_argument('words', metavar='word', nargs='+',
+                help='word(s) to update')
+        parser_print.set_defaults(func=self._print)
+        parser_import = subparsers.add_parser('import',
+                description='Import answer files to database',
+                help='imports answer files to database')
+        parser_import.set_defaults(func=self._import)
+        parser_run = subparsers.add_parser('run',
+                description='Run main program',
+                help='guess a word')
+        parser_run.set_defaults(func=self._run)
+        self.args = self.parser.parse_args()
+
+    def _init(self, args):
+        print("Starting initiatialization\n")
+        self.task = Asker()
+
+    def _update(self, args):
+        print("Starting update\n")
+        self.task = Updater(args.words)
+
+    def _print(self, args):
+        print("Starting printing\n")
+        self.task = Printer(args.words)
+
+    def _import(self, args):
+        print("Starting import\n")
+        self.task = Importer()
+
+    def _run(self, args):
+        print("starting main program\n")
+        self.task = Guesser()
+
+if __name__ == '__main__':
+    IAGuesser()
+
